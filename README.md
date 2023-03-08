@@ -87,7 +87,7 @@ PWR KEY Pin, default pulled down by **0 Ohm** (**R10**), to using it, please rem
 
 - ### Additional Plastic case can easily buy here: 
 
-![LINK](https://github.com/TDLOGY/TDM-SIM7600CE/blob/main/TDM-SIM7600CE-pinout.PNG)
+![LINK]([https://github.com/TDLOGY/TDM-SIM7600CE/blob/main/TDM-SIM7600CE-pinout.PNG](https://github.com/TDLOGY/TDM-2301_TDM-2302-X7600CX-USB-Dongle/blob/main/fdb7d1f3abf676a82fe73.jpg))
 
 
 
