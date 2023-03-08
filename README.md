@@ -11,6 +11,7 @@ __Advertisement  __
 ----
 This repo will provide you all data for SIM7600CE USB Dongle and A7600C-L1 USB Dongle module!
 
+### Please Note: These Dongle already intergrated a PCB Antena ( Testing purpose only), please remove the resistor in the antena and bridge the IPEX connector to use external good antena.
 ---
 
 ### TDM-2301-SIM7600CE USB Dongle Module Specifications:
